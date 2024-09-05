@@ -10,6 +10,7 @@ It simplifies the process of deploying a WordPress instance with a MySQL backend
 
  ## Clone the Repository
  git clone https://github.com/kadamvignesh/wordpress-docker-compose.git
+ 
  cd wordpress-docker-compose
 
 ## Build and Run the Containers
