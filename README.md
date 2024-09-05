@@ -16,6 +16,8 @@ It simplifies the process of deploying a WordPress instance with a MySQL backend
 ## Build and Run the Containers
 docker-compose up -d
 
+![image alt]()https://github.com/kadamvignesh/wordpress-docker-compose/blob/main/Screenshot%20(29).png?raw=true
+
 ## Access WordPress
 Open your web browser and navigate to http://localhost:8080 to complete the WordPress setup.
 
