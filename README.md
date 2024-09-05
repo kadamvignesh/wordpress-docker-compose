@@ -16,11 +16,11 @@ It simplifies the process of deploying a WordPress instance with a MySQL backend
 ## Build and Run the Containers
 docker-compose up -d
 
-![image alt](https://raw.githubusercontent.com/kadamvignesh/wordpress-docker-compose/main/Screenshot%20(29).png)
-
-
 ## Access WordPress
 Open your web browser and navigate to http://localhost:8080 to complete the WordPress setup.
+
+## This is what it will look like
+![image alt](https://raw.githubusercontent.com/kadamvignesh/wordpress-docker-compose/main/Screenshot%20(29).png)
 
 ## To stop and remove the containers
 docker-compose down
